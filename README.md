@@ -33,8 +33,6 @@ Execute the python program and record the movements.
 ```
 ## Developed by: viswanadham venkata sai sruthi
 ## Register number: 212223100061
-#DEVELOPED BY : Stephen raj.Y
-#REGISTER NUMBER : 212223230217
 from robomaster import robot
 import time
 from robomaster import camera
@@ -108,7 +106,6 @@ https://youtu.be/qktPksuUmIQ?si=NIVnDWaNGr-dXx93
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
 
 
 ```
